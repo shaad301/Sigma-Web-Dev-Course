@@ -1,0 +1,48 @@
+Block Element	Description
+<div>:	        Generic container for block-level content
+<p>	 :          Paragraph
+<h1> :          to <h6>	Headings
+<ul> :	        Unordered list
+<ol> :	        Ordered list
+<li> :	        List item (child of <ul> or <ol>)
+<section>:      Defines a section in a document
+<article>:      Defines an independent, self-contained piece of content
+<nav> :	        Navigation links
+<aside>:	   Sidebar content
+<header>:       Header section of a page or section
+<footer>:	    Footer section of a page or section
+<main>:	        Main content of the document
+<figure>:	   Self-contained content, like illustrations or diagrams
+<figcaption>:	Caption for a <figure>
+<form>:	       HTML form
+<table>	:      Table container
+<fieldset>:    Group related form elements
+
+
+Inline Element   Description
+<a>	:            Anchor (hyperlink)
+<span>:	         Generic inline container
+<strong>:	     Important text (bold by default)
+<em>:	         Emphasized text (italic by default)
+<b>:	         Bold text
+<i>:	         Italic text
+<u>	:            Underlined text
+<abbr> :         Abbreviation
+<cite>:	         Citation
+<code>:	         Inline code
+<kbd>:	         User input (keyboard)
+<mark>:	         Highlighted text
+<samp>:	         Sample output
+<small>	:        Smaller text
+<sub>:	         Subscript text
+<sup>:	         Superscript text
+<time>:	         Date/time
+<var>:	         Variable in programming
+<img>:	         Image
+<input>:	     Form input
+<label>:	     Label for form elements
+<select>:	     Drop-down menu
+<textarea>:	     Multi-line text input (treated as inline in some contexts)
+<button>:	     Clickable button (inline by default)
+<br>:	         Line break
+<wbr>:	         Optional line break
